@@ -1,0 +1,14 @@
+.loan{
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.555);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.btn{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
